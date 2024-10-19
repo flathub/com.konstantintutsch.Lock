@@ -35,4 +35,4 @@ modules:
     sources:
       - type: git
         url: https://github.com/konstantintutsch/Lock.git
-        commit: ba36256f842749aead0dd7d7f0dcd356329be3f3 # v0.3.0
+        commit: 5a07179f9f2719f2ac9414863f950b64c5b183e1 # v0.3.1
