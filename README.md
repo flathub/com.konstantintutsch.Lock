@@ -1,6 +1,6 @@
 # Lock on Flathub
 
-To test locally, install [just](https://github.com/casey/just) and the Flatpak Builder[^1].
+To test locally, install git, [just](https://github.com/casey/just) and the Flatpak Builder[^1].
 
 Once finished, run:
 
