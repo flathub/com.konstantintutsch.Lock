@@ -10,6 +10,7 @@ finish-args:
   - --socket=fallback-x11
   - --filesystem=~/.gnupg:create
   - --socket=gpg-agent
+  - --talk-name=org.freedesktop.secrets
   - --talk-name=org.gnome.keyring.SystemPrompter
   - --talk-name=org.gtk.vfs.*
   - --filesystem=xdg-run/gvfsd
@@ -38,5 +39,5 @@ modules:
     sources:
       - type: git
         url: https://github.com/konstantintutsch/Lock.git
-        tag: v1.1.3
-        commit: 91531eacafe98e86bbd70a518d9f0a0e3a7a73c6
+        tag: v1.2.0
+        commit: a8c46a9cff3fbe23d7defbd6799913502372b6d6
