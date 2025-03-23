@@ -24,8 +24,7 @@ modules:
     sources:
       - type: git
         url: https://gitlab.gnome.org/jwestman/blueprint-compiler.git
-        tag: v0.14.0
-        commit: 8e10fcf8692108b9d4ab78f41086c5d7773ef864
+        tag: v0.16.0
     cleanup:
       - '*'
   - name: Lock
@@ -38,5 +37,4 @@ modules:
     sources:
       - type: git
         url: https://github.com/konstantintutsch/Lock.git
-        tag: v1.5.0
-        commit: 5e2105917abcb081ebed017e364e43a03c9d0cd6
+        tag: v1.5.1
