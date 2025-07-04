@@ -50,4 +50,4 @@ modules:
     sources:
       - type: git
         url: https://github.com/konstantintutsch/Lock.git
-        tag: v1.6.4
+        tag: v1.6.5
