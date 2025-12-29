@@ -29,4 +29,4 @@ modules:
     sources:
       - type: git
         url: https://github.com/konstantintutsch/Lock.git
-        tag: v1.9.2
+        tag: v1.9.3
