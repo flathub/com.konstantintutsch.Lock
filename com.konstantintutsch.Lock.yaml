@@ -13,11 +13,6 @@ finish-args:
   - --talk-name=org.gnome.keyring.SystemPrompter
   - --talk-name=org.gtk.vfs.*
   - --filesystem=xdg-run/gvfsd
-cleanup:
-  - "*.a"
-  - "*.la"
-  - /include
-  - /share/pkgconfig
 modules:
   - name: Lock
     buildsystem: meson
